@@ -1,0 +1,9 @@
+fieldset{
+    background-color: aqua;
+}
+h2{
+    text-align: center;
+}
+legend,h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
